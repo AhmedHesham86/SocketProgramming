@@ -7,7 +7,6 @@ extern "C"
 #include <unistd.h>
 #include <string.h>	//strlen
 #include "time.h"
-#include <arpa/inet.h>	//inet_addr
 }
 #include <string>
 
